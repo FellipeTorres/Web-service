@@ -2,7 +2,7 @@
 
 ### Descrição
 
-Cadastro de pessoas utilizando "HTML, CSS, JavaScript, Flask"
+Cadastro de pessoas utilizando "HTML, CSS, Flask"
 
 <img width="79%" src="https://github.com/FellipeTorres/Web-service/blob/main/static/assets/imagem.png">
 
